@@ -1,4 +1,4 @@
-<h1 align="center">🕷️ S1t3s-0n10n
+<h1 align="center">🕷️ S1t3s-0n10n</h1>
 
                                  _____________
                            __,---'::.-  -::_ _ `-----.___      ______
@@ -18,7 +18,7 @@
      `.  `--.____
        `-:______ `-._
                 `---'`
-</h1>
+
 
 <p align="center">Um index .onion voltado à informação não convencional, vazamentos e forense digital. Abaixo da superfície, o dado é cru. E você precisa saber onde procurar.</p>
 
