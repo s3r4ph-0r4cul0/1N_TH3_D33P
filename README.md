@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/1200x/e3/4e/07/e34e077343873454be40425920d5e339.jpg" width="400px" alt="Gecko Hacker Banner">
 </p>
 
----
+
 > [!IMPORTANT] 
 > 🚨 Funcionalidades
 
@@ -21,7 +21,7 @@
 - 📜 Wiki: https://kittyforums.wiki  
 - 🧅 Onion: `http://6awch55niofkyuah7x6vpafvcmqr3qg2w3chpeq3qoye7e5gkguzenad.onion`
 
----
+
 
 ### 🌍 World Leaks
 
