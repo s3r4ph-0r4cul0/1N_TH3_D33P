@@ -4,15 +4,7 @@
   <img src="https://i.pinimg.com/1200x/e3/4e/07/e34e077343873454be40425920d5e339.jpg" width="500px" alt="Gecko Hacker Banner">
 </p>
 
----
-
-> ⚠️ **Funcionalidades**
->
-> - 🔗 Acesso rápido a fóruns `.onion` e mirrors no clearnet  
-> - 🌍 Diretórios de vazamentos de dados sensíveis  
-> - 🌦️ Monitoramento climático e ambiental em tempo real
-
----
+<hr style="border: 1px solid #00ff00;">
 
 ### 🐾 Sucessor do Branch Forums
 
@@ -22,7 +14,7 @@
 - 📜 [Wiki](https://kittyforums.wiki)  
 - 🧅 Onion: `http://6awch55niofkyuah7x6vpafvcmqr3qg2w3chpeq3qoye7e5gkguzenad.onion`
 
----
+<hr style="border: 1px solid #00ff00;">
 
 ### 🌍 World Leaks
 
@@ -32,12 +24,10 @@
 > Contém vazamentos de credenciais, documentos pessoais, registros confidenciais e outros dados críticos.  
 > ⚠️ Navegue com cautela. Use VM + Tor + NoScript.
 
----
+<hr style="border: 1px solid #00ff00;">
 
 ### 🌦️ Monitoramento em Tempo Real
 
 - 🌪️ [Windy (satélite, radar, vento e pressão)](https://www.windy.com/)  
 - 📹 [Clima ao Vivo (câmeras em tempo real no Brasil)](https://www.climaaovivo.com.br/)
-
----
 
