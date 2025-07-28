@@ -33,7 +33,7 @@
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <p align="center">
-  🌦️ Monitoramento em Tempo Real
+  🌦📸 Monitoramento de cameras
 </p>
 
   - 🌪️ [Windy (satélite, radar, vento e pressão)](https://www.windy.com/)  
