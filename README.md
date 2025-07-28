@@ -9,6 +9,7 @@
 <p align="center">
    🐾 Sucessor do Branch Forums
 </p>
+
   > Fóruns voltados a **cracking**, **leaks** e **engenharia reversa** — com presença tanto no clearnet quanto na deep web.
 
   - 🌐 [Clearnet](https://crackfrm.com/index.php)  
@@ -21,6 +22,7 @@
 <p align="center">
   🌍 World Leaks
 </p>
+
   - 🧅 Onion: `https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion`
 
   > ⚠️ **Alerta de Conteúdo Sensível**  
@@ -33,5 +35,6 @@
 <p align="center">
   🌦️ Monitoramento em Tempo Real
 </p>
+
   - 🌪️ [Windy (satélite, radar, vento e pressão)](https://www.windy.com/)  
   - 📹 [Clima ao Vivo (câmeras em tempo real no Brasil)](https://www.climaaovivo.com.br/)
