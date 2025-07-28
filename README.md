@@ -4,7 +4,8 @@
   <img src="https://i.pinimg.com/1200x/e3/4e/07/e34e077343873454be40425920d5e339.jpg" width="500px" alt="Gecko Hacker Banner">
 </p>
 
-<hr style="border: 1px solid #00ff00;">
+<pre style="color: #00ff00">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
+
 
 ### 🐾 Sucessor do Branch Forums
 
@@ -14,7 +15,9 @@
 - 📜 [Wiki](https://kittyforums.wiki)  
 - 🧅 Onion: `http://6awch55niofkyuah7x6vpafvcmqr3qg2w3chpeq3qoye7e5gkguzenad.onion`
 
-<hr style="border: 1px solid #00ff00;">
+
+<pre style="color: #00ff00">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
+
 
 ### 🌍 World Leaks
 
