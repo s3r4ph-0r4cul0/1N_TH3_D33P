@@ -7,32 +7,31 @@
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <p align="center">
-  ### 🐾 Sucessor do Branch Forums
-
+   🐾 Sucessor do Branch Forums
+</p>
   > Fóruns voltados a **cracking**, **leaks** e **engenharia reversa** — com presença tanto no clearnet quanto na deep web.
 
   - 🌐 [Clearnet](https://crackfrm.com/index.php)  
   - 📜 [Wiki](https://kittyforums.wiki)  
   - 🧅 Onion: `http://6awch55niofkyuah7x6vpafvcmqr3qg2w3chpeq3qoye7e5gkguzenad.onion`
-</p>
+
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <p align="center">
-  ### 🌍 World Leaks
-
+  🌍 World Leaks
+</p>
   - 🧅 Onion: `https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion`
 
   > ⚠️ **Alerta de Conteúdo Sensível**  
   > Contém vazamentos de credenciais, documentos pessoais, registros confidenciais e outros dados críticos.  
   > ⚠️ Navegue com cautela. Use VM + Tor + NoScript.
-</p>
+
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <p align="center">
-  ### 🌦️ Monitoramento em Tempo Real
-
+  🌦️ Monitoramento em Tempo Real
+</p>
   - 🌪️ [Windy (satélite, radar, vento e pressão)](https://www.windy.com/)  
   - 📹 [Clima ao Vivo (câmeras em tempo real no Brasil)](https://www.climaaovivo.com.br/)
-</p>
